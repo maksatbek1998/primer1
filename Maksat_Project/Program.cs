@@ -10,6 +10,8 @@ namespace Maksat_Project
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Maksat");
+            Console.ReadKey();
         }
     }
 }
