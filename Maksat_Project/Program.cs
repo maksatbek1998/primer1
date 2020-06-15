@@ -14,6 +14,7 @@ namespace Maksat_Project
             Console.WriteLine("Maksat salam");
             Console.WriteLine("Maksat iygilik saga");
             Console.WriteLine("Maksat iygilik saga");
+            Console.WriteLine("Maksat iygilik апапапапап");
             Console.ReadKey();
         }
     }
