@@ -12,7 +12,7 @@ namespace Maksat_Project
         {
             //Maksat kandayффффффффfhgfh
             //Maksat kandayфффффффф
-            //Maksat kandayфффффффф
+            //Maksat kandayффффффффмтпропоро
             //Maksat kandayффффффффSDvdfsvfbvgfhf
             Console.ReadKey();
         }
