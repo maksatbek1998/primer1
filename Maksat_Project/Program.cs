@@ -10,7 +10,10 @@ namespace Maksat_Project
     {
         static void Main(string[] args)
         {
-       //Maksat kandayфффффффф
+            //Maksat kandayфффффффф
+            //Maksat kandayфффффффф
+            //Maksat kandayфффффффф
+            //Maksat kandayффффффффSDvdfsvfbv
             Console.ReadKey();
         }
     }
