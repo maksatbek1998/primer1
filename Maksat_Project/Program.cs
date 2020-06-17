@@ -10,11 +10,7 @@ namespace Maksat_Project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Maksat");
-            Console.WriteLine("Maksat salam");
-            Console.WriteLine("Maksat iygilik saga");
-            Console.WriteLine("Maksat iygilik saga");
-            Console.WriteLine("Maksat iygilik апапапапап");
+      
             Console.ReadKey();
         }
     }
